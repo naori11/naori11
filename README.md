@@ -1,6 +1,8 @@
 # 💫 About Me:
-Currently Learning DevOps Engineering and Backend Development<br>Currently Intern at GenWATT Energy Solutions<br>Current working on Wynx Map<br>Studying BSIT at National University - Fairview<br><br>
-
+**🎓 BSIT Student** | National University - Fairview (2026)  
+**🏗️ Backend Intern** | GenWATT Energy Solutions
+**🛠️ Interests** | DevOps Engineering & Backend Development
+**☁️ Certified** | Microsoft Azure Fundamentals (AZ-900)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juvan-emanuel-paulo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juvanpaulo1@gmail.com) 
