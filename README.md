@@ -1,8 +1,12 @@
 # 💫 About Me:
-**🎓 BSIT Student** | National University - Fairview (2026)  
+**🎓 BSIT Student** | National University - Fairview (2026)
+<br>
 **🏗️ Backend Intern** | GenWATT Energy Solutions
+<br>
 **🛠️ Interests** | DevOps Engineering & Backend Development
+<br>
 **☁️ Certified** | Microsoft Azure Fundamentals (AZ-900)
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juvan-emanuel-paulo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juvanpaulo1@gmail.com) 
